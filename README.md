@@ -16,7 +16,7 @@ In case folder JS just go throuth folder and find file index.html
 
 in case you want checking folder REACT you must go in terminal Visual Studia Code go in folder throuth command:
 
-a. 'cd #nam_ project REACT'
+a. 'cd  #nam_ project/REACT'
 
 b. npm install
 
