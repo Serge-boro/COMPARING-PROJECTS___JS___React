@@ -1,13 +1,3 @@
-This project was bootstrapped with Create React App.
-
-Available Scripts In the project directory, you can run:
-
-npm install Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
-
-npm start Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
-
-The page will reload if you make edits. You will also see any lint errors in the console.
-
 People always have discusses what the better for work like REACT, VUE or Angular. All of those was inheriting from JS and and we all have different mind about. 
 
 As for me I'm fan and stickler REACT. In this case repository I would like show how we can create pretty similar projects using JS language and REACT
